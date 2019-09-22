@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.3'
+gem 'devise'
 gem 'simple_form'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.11.1'
