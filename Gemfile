@@ -2,9 +2,9 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.3'
-gem 'carrierwave'
-gem 'mini_magick'
 gem 'carrierwave-aws'
+gem 'carrierwave', '~>2.0'
+gem 'mini_magick'
 gem 'devise'
 gem 'simple_form'
 gem 'jquery-rails'
