@@ -28,4 +28,3 @@ class Instructor::LessonsController < ApplicationController
     params.require(:lesson).permit(:title, :subtitle, :video)
   end
 end
-
