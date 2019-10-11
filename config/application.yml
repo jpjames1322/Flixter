@@ -10,6 +10,6 @@
 #   stripe_api_key: sk_live_EeHnL644i6zo4Iyq4v1KdV9H
 #   stripe_publishable_key: pk_live_9lcthxpSIHbGwmdO941O1XVU
 AWS_ACCESS_KEY: "AKIAW6VYL77AXONBMD4W"
-AWS_SECRET_KEY: "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"
+AWS_SECRET_KEY: "fjsQx1xXalNU/RaLYiQd6EXrZDwtt8DpmbU5ca9a"
 AWS_BUCKET: "3buckets"
 AWS_REGION: "us-east-1"
